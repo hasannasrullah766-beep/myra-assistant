@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Myra" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF1744</item>
+        <item name="colorPrimaryVariant">#D500F9</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSurface">#111111</item>
+        <item name="colorOnSurface">#EEEEEE</item>
+        <item name="android:windowBackground">#050505</item>
+        <item name="android:statusBarColor">#00000000</item>
+        <item name="android:navigationBarColor">#050505</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
